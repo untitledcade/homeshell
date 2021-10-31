@@ -1,1 +1,3 @@
-# homeshell files are under the releace files. go there -->
+# Homeshell
+
+for Releaces, go to https://github.com/OfficeTable/homeshell/releases.
