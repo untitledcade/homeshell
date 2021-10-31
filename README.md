@@ -1,4 +1,10 @@
-# Homeshell
+# Welcome to Homeshell
+
+Welcome to Homeshell!
+
+## Fetures
+
+Homeshell has
 
 ## How to Navigate the Repository
 
