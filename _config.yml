@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Homeshell.core
 description: Welcome to Homeshell, the free open source suite for connecting to the internet and creating/opening documents
+show_downloads: true
