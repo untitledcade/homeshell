@@ -4,7 +4,13 @@ Welcome to Homeshell!
 
 ## Fetures
 
-Homeshell has
+Homeshel includes
+
+- **Officeworks** (a word processor to create documents)
+- **WebBox** (a simple web browser)
+- **tonline** (social networking)
+- **3rd and 1st Party App Support** (for safer and faster apps)
+
 
 ## How to Navigate the Repository
 
