@@ -2,6 +2,8 @@
 
 Welcome to Homeshell!
 
+Github Pages Site: https://officetable.github.io/homeshell/
+
 ## Fetures
 
 Homeshel includes
