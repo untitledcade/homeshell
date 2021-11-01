@@ -26,5 +26,5 @@ Use the Source folder for Download Source files for every version that can be op
 
 If you want Releace Notes, Or need to download Setup files for a older Version, go to this link.
 
-[Open Releace Notes/Download Older Versions](https://github.com/OfficeTable/homeshell/releases)
+[Open Releace Notes/Download Older Versions](https://github.com/OfficeTable/homeshell/releases).
 
